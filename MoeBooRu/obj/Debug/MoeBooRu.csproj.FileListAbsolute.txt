@@ -1,0 +1,5 @@
+c:\users\kan_ri\documents\visual studio 2010\Projects\MoeBooRu\MoeBooRu\bin\MoeBooRu.dll
+c:\users\kan_ri\documents\visual studio 2010\Projects\MoeBooRu\MoeBooRu\bin\MoeBooRu.pdb
+c:\users\kan_ri\documents\visual studio 2010\Projects\MoeBooRu\MoeBooRu\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kan_ri\documents\visual studio 2010\Projects\MoeBooRu\MoeBooRu\obj\Debug\MoeBooRu.dll
+c:\users\kan_ri\documents\visual studio 2010\Projects\MoeBooRu\MoeBooRu\obj\Debug\MoeBooRu.pdb
